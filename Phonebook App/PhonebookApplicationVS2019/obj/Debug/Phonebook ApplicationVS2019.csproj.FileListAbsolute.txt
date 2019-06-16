@@ -1,0 +1,52 @@
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Phonebook ApplicationVS2019.exe.config
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Phonebook ApplicationVS2019.exe
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Phonebook ApplicationVS2019.pdb
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Castle.Core.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Castle.Windsor.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\GreenPipes.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\MassTransit.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\MassTransit.WindsorIntegration.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\NewId.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\System.ValueTuple.dll
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Castle.Core.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Castle.Windsor.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\GreenPipes.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\MassTransit.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\MassTransit.WindsorIntegration.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\NewId.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\bin\Debug\System.ValueTuple.xml
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.csprojAssemblyReference.cache
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.csproj.CopyComplete
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.exe
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code VS 2019\Phonebook App\Phonebook ApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.pdb
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Phonebook ApplicationVS2019.exe.config
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Phonebook ApplicationVS2019.exe
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Phonebook ApplicationVS2019.pdb
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Castle.Core.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Castle.Windsor.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\GreenPipes.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\MassTransit.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\MassTransit.WindsorIntegration.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\NewId.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\System.ValueTuple.dll
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Castle.Core.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Castle.Windsor.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\GreenPipes.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\MassTransit.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\MassTransit.WindsorIntegration.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\NewId.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\bin\Debug\System.ValueTuple.xml
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.csprojAssemblyReference.cache
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.csproj.CopyComplete
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.exe
+C:\Users\Emmanuel Mark\Documents\GitHub\PhonebookMocking\Phonebook App\PhonebookApplicationVS2019\obj\Debug\Phonebook ApplicationVS2019.pdb
